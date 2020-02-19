@@ -1,0 +1,23 @@
+Product		Price	Size	Quantity 	Energy 
+Chips:	Doritos	R15	150g	225	140
+	Lays 	R13	250g	400	135
+	Simba	R13	250g	200	125
+Cooldrinks:	Coke	R9	250ml	150	500
+	Fanta 	R9	250ml	120	600
+	Sprite 	R8	250ml	130	400
+Chocolates:	Cadbury	R14	150g	55	890
+	Tex 	R13 	150g	30	760
+	Bar One 	R15	150g	23	920
+Pies:	Pepper Steak	R10		50	1000
+	Chicken 	R10		55	1150
+	Feta and Cheese 	R13		25	850
+Fruit:	Pear	R15	1kg	26	60
+	Apple 	R12	1.5kg	35	75
+	Orange 	R13	1kg	45	80
+Cupcakes:	Vanilla 	R3.5	50g	90	320
+	Chocolate 	R3.5	50g	89	326
+	Red Velvet 	R2.5	50g	100	400
+Veggies:	Spinach 	R5	250g	45	500
+	Cabbage 	R6	205g	65	525
+	Brocolli 	R4	300g	35	670
+					
